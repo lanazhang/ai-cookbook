@@ -1,0 +1,10 @@
+# the video is never committed (see README for the license)
+data/
+# files the notebook generates on every run
+*.faiss
+video_segments.json
+# environments and notebook state
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

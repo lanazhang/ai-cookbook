@@ -1,0 +1,8 @@
+numpy==2.5.3
+faiss-cpu==1.15.1
+opencv-python-headless==5.0.0.93
+pillow==10.4.0
+requests==2.34.2
+ipython==9.17.1
+ipykernel==7.4.0
+jupyterlab==4.6.4
